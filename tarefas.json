@@ -1,14 +1,17 @@
 [
     {
-        "descricao": "Estudar Python",
-        "concluida": true
+        "descricao": "Estudar",
+        "concluida": true,
+        "data": "2026-06-03 02:29:38"
     },
     {
         "descricao": "Academia",
-        "concluida": false
+        "concluida": false,
+        "data": "2026-06-03 02:30:01"
     },
     {
         "descricao": "Caminhada",
-        "concluida": false
+        "concluida": false,
+        "data": "2026-06-03 02:30:09"
     }
 ]
