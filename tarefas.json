@@ -1,0 +1,14 @@
+[
+    {
+        "descricao": "Estudar Python",
+        "concluida": true
+    },
+    {
+        "descricao": "Academia",
+        "concluida": false
+    },
+    {
+        "descricao": "Caminhada",
+        "concluida": false
+    }
+]
